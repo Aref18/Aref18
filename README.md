@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="A V" src="https://github.com/Aref18/beauty/raw/master/docs/V.png" height="180" />
+  <img alt="A V" src="https://github.com/Aref18/V.png" height="180" />
   <br>
   A simple Http server and client above <a href="https://github.com/boostorg/beast">Boost.Beast</a>
 </div>
