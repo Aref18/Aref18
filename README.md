@@ -27,4 +27,20 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aref18&show_icons=true&locale=en" alt="aref18" /></p>
 
+## 🧠 Quote of the Day
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=monokai&animation=grow_out_in&layout=default&font=Calligraffitti&quoteType=quote-for-the-day&fontColor=red&borderColor=red)
+
+---
+
+## 🧘 Wisdom in Dart
+
+```dart
+void main() {
+  // آرام باش تا بزرگ شوی
+  const wisdom = 'Be calm to grow.';
+  print(wisdom);
+}
+
+
 
