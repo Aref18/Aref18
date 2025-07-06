@@ -27,6 +27,6 @@
 
 
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=monokai&animation=grow_out_in&layout=default&font=Calligraffitti&quoteType=custom&quote=Be%20calm%20to%20grow.&fontColor=red&borderColor=red)
+![Quote](https://github-readme-quotes-returns.vercel.app/api/quote?quote=const%20wisdom%20%3D%20'Be%20calm%20to%20grow.'%3B&author=Dart)
 
 
