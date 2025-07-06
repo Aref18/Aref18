@@ -27,6 +27,12 @@
 
 
 
-![Quote](https://github-readme-quotes-returns.vercel.app/api/quote?quote=const%20wisdom%20%3D%20'Be%20calm%20to%20grow.'%3B&author=Dart)
+## 🧘 Wisdom in Dart
 
+```dart
+void main() {
+  // آرام باش تا بزرگ شوی
+  const wisdom = 'Be calm to grow.';
+  print(wisdom);
+}
 
