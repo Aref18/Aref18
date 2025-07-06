@@ -27,7 +27,6 @@
 
 
 
-## 🧘 Wisdom in Dart
 
 ```dart
 void main() {
